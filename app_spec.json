@@ -1,0 +1,1 @@
+{"name": "32-we-need-to-revolutionize-how-l-firebase-092219", "spec": {"port": 8000, "containers": [{"image": "", "name": "32-we-need-to-revolutionize-how-l-firebase-092219", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
